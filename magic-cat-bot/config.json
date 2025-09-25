@@ -1,0 +1,14 @@
+{
+    "colors": {
+        "default": "#FFFFFF",
+        "success": "#57F287",
+        "error": "#ED4245",
+        "warning": "#FEE75C"
+    },
+    "emojis": {
+        "success": "✅",
+        "error": "❌",
+        "loading": "⏳",
+        "ticket": "🎟️"
+    }
+}
